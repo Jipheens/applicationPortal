@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-this project is for the kb self service
+this project 
 In the project directory, you can run:
 
 ### `npm start`
